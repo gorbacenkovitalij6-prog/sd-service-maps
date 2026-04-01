@@ -509,7 +509,7 @@ export default function Page() {
               <div className="mb-5 lg:mb-6">
                 <h2 className="text-[16px] lg:text-[18px] font-medium text-gray-800 mb-2 lg:mb-3">О компании</h2>
                 <p className="text-[14px] lg:text-[15px] text-gray-700 leading-relaxed">
-                  ООО "СД-Сервис" - надежная компания по продаже качественных подержанных автомобилей в Тольятти.
+                  ООО "СД-Сервис" - надежная компания по продаже качественных подержанных автомобилей в Смоленске.
                   Мы специализируемся на подборе и продаже автомобилей из Европы с учетом всех пожеланий и бюджета клиента.
                   Наша команда профессионалов поможет вам выбрать идеальный автомобиль и быстро оформить все необходимые документы.
                 </p>
@@ -2009,7 +2009,7 @@ export default function Page() {
                       <div>
                         <h3 className="text-gray-900 text-[15px] xs:text-[16px] iphone-16-pro-max:text-[17px] font-medium mb-2">О компании</h3>
                         <p className="text-gray-700 text-[13px] xs:text-[14px] iphone-16-pro-max:text-[15px] leading-relaxed">
-                          ООО "СД-Сервис" - надежная компания по продаже качественных подержанных автомобилей в Тольятти.
+                          ООО "СД-Сервис" - надежная компания по продаже качественных подержанных автомобилей в Смоленске.
                           Мы специализируемся на подборе и продаже автомобилей из Европы с учетом всех пожеланий и бюджета клиента.
                           Наша команда профессионалов поможет вам выбрать идеальный автомобиль и быстро оформить все необходимые документы.
                         </p>
@@ -3034,7 +3034,7 @@ export default function Page() {
               <h3 className="text-[15px] font-medium text-gray-800 mb-3">Популярные категории</h3>
               <div className="grid grid-cols-2 gap-3">
                 <button
-                  onClick={() => searchOnMap('автосалоны Тольятти')}
+                  onClick={() => searchOnMap('автосалоны Смоленск')}
                   className="flex items-center gap-3 p-4 border border-gray-200 rounded-lg hover:bg-gray-50 hover:border-blue-300 transition text-left"
                 >
                   <div className="w-10 h-10 bg-blue-100 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -3049,7 +3049,7 @@ export default function Page() {
                 </button>
 
                 <button
-                  onClick={() => searchOnMap('автосервисы Тольятти')}
+                  onClick={() => searchOnMap('автосервисы Смоленск')}
                   className="flex items-center gap-3 p-4 border border-gray-200 rounded-lg hover:bg-gray-50 hover:border-red-300 transition text-left"
                 >
                   <div className="w-10 h-10 bg-red-100 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -3064,7 +3064,7 @@ export default function Page() {
                 </button>
 
                 <button
-                  onClick={() => searchOnMap('АЗС Тольятти')}
+                  onClick={() => searchOnMap('АЗС Смоленск')}
                   className="flex items-center gap-3 p-4 border border-gray-200 rounded-lg hover:bg-gray-50 hover:border-green-300 transition text-left"
                 >
                   <div className="w-10 h-10 bg-green-100 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -3079,7 +3079,7 @@ export default function Page() {
                 </button>
 
                 <button
-                  onClick={() => searchOnMap('парковки Тольятти')}
+                  onClick={() => searchOnMap('парковки Смоленск')}
                   className="flex items-center gap-3 p-4 border border-gray-200 rounded-lg hover:bg-gray-50 hover:border-orange-300 transition text-left"
                 >
                   <div className="w-10 h-10 bg-orange-100 rounded-lg flex items-center justify-center flex-shrink-0">
