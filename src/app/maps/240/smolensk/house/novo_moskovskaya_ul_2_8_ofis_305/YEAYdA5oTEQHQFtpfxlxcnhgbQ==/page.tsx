@@ -582,7 +582,7 @@ export default function Page() {
                   </svg>
                   <div>
                     <div className="text-[13px] lg:text-[14px] font-medium text-gray-800 mb-0.5">Электронный адрес</div>
-                    <a href="mailto:sd.service@mail.ru" className="text-[13px] lg:text-[14px] text-blue-600 hover:text-blue-700 active:text-blue-800 hover:underline break-all">sd.service@mail.ru</a>
+                    <a href="mailto:sd-service@rambler.ru" className="text-[13px] lg:text-[14px] text-blue-600 hover:text-blue-700 active:text-blue-800 hover:underline break-all">sd-service@rambler.ru</a>
                   </div>
                 </div>
               </div>
@@ -2085,7 +2085,7 @@ export default function Page() {
                           </svg>
                           <div className="flex-1 min-w-0">
                             <div className="text-[12px] xs:text-[13px] font-medium text-gray-800 mb-0.5">Электронный адрес</div>
-                            <a href="mailto:sd.service@mail.ru" className="text-[12px] xs:text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 hover:underline break-all">sd.service@mail.ru</a>
+                            <a href="mailto:sd-service@rambler.ru" className="text-[12px] xs:text-[13px] text-blue-600 hover:text-blue-700 active:text-blue-800 hover:underline break-all">sd-service@rambler.ru</a>
                           </div>
                         </div>
                       </div>
